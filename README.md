@@ -1,1 +1,0 @@
-# cyclone-static-res
