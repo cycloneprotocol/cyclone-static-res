@@ -52,7 +52,7 @@
     "waiting.for.receipt": "等待接收",
     "Deposited": "存入",
     "Sending": "发送中",
-    "Spent": "花费",
+    "Spent": "已使用",
     "tx.hash": "Tx哈希",
     "iotx": "IOTX",
     "deposits": "存款",
