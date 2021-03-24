@@ -115,6 +115,7 @@
   "info": "Info",
   "internal.relayer.error": "Internal Relayer Error.",
   "invalid": "Error:The note is invalid.",
+  "invalid.spent": "Error:The note is spent.",
   "iopay.connect": "Connecting to ioPay...",
   "iotex.used": "(IOTX used)",
   "iotx": "IOTX",

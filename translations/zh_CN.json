@@ -61,6 +61,7 @@
     "subsequent.deposits": "后续存款数",
     "Deposits": "存款",
     "invalid": "错误：笔记无效。",
+    "invalid.spent": "错误：笔记已提取。",
     "recipient.address": "接收地址",
     "paste.address": "请在此处粘贴地址",
     "gas.price": "Gas 价格",
