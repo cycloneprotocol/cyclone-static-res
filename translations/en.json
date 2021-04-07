@@ -245,5 +245,6 @@
     "metamask": "Metamask",
     "trustWallet": "TrustWallet",
     "mathWallet": "MathWallet",
-    "tokenPocket": "TokenPocket"
+    "tokenPocket": "TokenPocket",
+	"insufficient.balance": "Insufficient Balance"
 }
