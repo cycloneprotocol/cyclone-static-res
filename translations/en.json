@@ -249,7 +249,7 @@
   "mathWallet": "MathWallet",
   "tokenPocket": "TokenPocket",
   "insufficient.balance": "Insufficient Balance",
-  "insufficient.pool": "This poor requires ${amount} ${symbol} per deposit.",
+  "insufficient.pool": "This pool requires ${amount} ${symbol} per deposit.",
   "wrong.network": "Wrong Network",
   "wrong.network.tips": "Please connect to the appropriate Ethereum network.",
   "insufficient.balance.token": "Insufficient ${token} Balance ",
