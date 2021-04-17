@@ -5,7 +5,7 @@
   "YourNote": "Your Note",
   "Loading.text1": "Please confirm transaction in ioPay...",
   "Loading.text2": "Then, please confirm the deposite transaction in ioPay...",
-  "Loading.text3": "Transaction record not found, or this note is spent.",
+  "Loading.text3": "Transaction record not found.",
   "Loading.text4": "Generating Proof...",
   "Loading.text5": "Your zkSnark proof has been successfully generated! Please confirm to initiate the withdraw.",
   "Loading.text6": "Please confirm the approval transaction in ioPay...",
@@ -255,5 +255,10 @@
   "insufficient.balance.token": "Insufficient ${token} Balance ",
   "approve.please": "Please approve ${token} ",
   "use.max.approve": "Use max approve",
-  "iotex.v1.alert": "Cyclone V1 pools on IoTeX have a different token economies. They don't generate CYC rewards on daily basis.  Please read the docs to learn more.  V2 pools will be launched on IoTeX later."
+  "iotex.v1.alert": "Cyclone V1 pools on IoTeX have a different token economies. They don't generate CYC rewards on daily basis.  Please read the docs to learn more.  V2 pools will be launched on IoTeX later.",
+  "err.invalidLeafIndex": "Invalid LeafIndex",
+  "err.invalidRoot": "Invalid Root",
+  "err.spent": "This note is spent.",
+  "err.invalidProof": "Proof verification failed",
+  "err.note.notfound": "Transaction record not found."
 }

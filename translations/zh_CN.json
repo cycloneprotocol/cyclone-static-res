@@ -5,7 +5,7 @@
   "YourNote": "你的笔记",
   "Loading.text1": "请在 ioPay 中确认交易...",
   "Loading.text2": "然后，请在ioPay中确认存款交易...",
-  "Loading.text3": "找不到交易记录，或者此笔记已被使用。",
+  "Loading.text3": "找不到交易记录。",
   "Loading.text4": "正在生成证明...",
   "Loading.text5": "你的zkSnark证明已成功生成！请确认开始提款。",
   "Loading.text6": "请在ioPay中确认批准交易...",
