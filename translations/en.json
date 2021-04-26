@@ -206,6 +206,7 @@
   "bsc": "BSC",
   "current": "Current",
   "frontpage.notice.mining": "Anonymity and liquidity mining has started!",
+  "frontpage.notice.PSCLPupgrade": "Pancakeswap LP migration has started. Please update your pairs to earn LP mining rewards!",
   "frontpage.notice.voting": "First governance voting has started! ",
   "of.cyc.denomination": "of CYC denomination",
   "vote.now": "Vote now >>>",
@@ -261,5 +262,6 @@
   "err.spent": "This note is spent.",
   "err.invalidProof": "Proof verification failed",
   "err.note.notfound": "Transaction record not found.",
-  "remove.liquidity": "Remove Liquidity"
+  "remove.liquidity": "Remove Liquidity",
+  "learn.more": "Learn more"
 }
