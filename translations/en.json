@@ -267,5 +267,9 @@
   "learn.more": "Learn more",
   "deno.warning": "Denominations are the amount you will deposit and withdraw. Rewards(CYC) will be included in denominations during withdraw.",
   "iotex.v2.notice": "Please migrate your tokens in V1 pools to V2. You can use your note in withdraw tab. Or you can visit V1",
-  "here": "here"
+  "here": "here",
+  "connector.loading": "Connecting. Please unlock ioPay and don't use global proxy or VPN.",
+  "connector.loading.mobile": "Connecting.",
+  "connector.success": "Connect sucessed!",
+  "connector.failed": "Connect failed, Please try again later."
 }
