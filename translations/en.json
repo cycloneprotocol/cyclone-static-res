@@ -264,5 +264,8 @@
   "err.invalidProof": "Proof verification failed",
   "err.note.notfound": "Transaction record not found.",
   "remove.liquidity": "Remove Liquidity",
-  "learn.more": "Learn more"
+  "learn.more": "Learn more",
+  "deno.warning": "Denominations are the amount you will deposit and withdraw. Rewards(CYC) will be included in denominations during withdraw.",
+  "iotex.v2.notice": "Please migrate your tokens in V1 pools to V2. You can use your note in withdraw tab. Or you can visit V1",
+  "here": "here"
 }
