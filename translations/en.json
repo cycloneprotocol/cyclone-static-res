@@ -239,7 +239,7 @@
   "launch.title3": "zkSNARKs-based privacy",
   "launch.desc2": "Cyclone is the world first cross-chain, yield enhancement, zkSNARKs-based privacy protocol for all DeFi apps, with the decentralized governance and fair launch",
   "anonymity_pools": "Anonymity Pools",
-  "including.anonymity.fee": "Including ${fee}${symbol} anonymity fee",
+  "including.anonymity.fee": "Denominations are the amount you will deposit and withdraw. Rewards(CYC) will be included in denominations during withdraw. This amount include ${fee}${symbol} anonymity fee.",
   "lp": "LP",
   "staked": "Staked",
   "iopay": "IoPay Desktop",
