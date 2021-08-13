@@ -95,6 +95,7 @@
   "notice.early.bird": "Mining has started. Deposit to mint CYC and mine CYC by providing liquidity.",
   "mining.not.started": "Mining has not started yet. Please come back later.",
   "launch.app": "Launch App",
+  "launch.app.on": "Launch App On",
   "Stats": "Stats",
   "info": "Info",
   "launch.tips1": "Multi-chain",
@@ -234,10 +235,11 @@
   "lp.tips": "Fee: 0.5% of LP will be used to buy CYC and burn. Earned CYC Token is automatically claimed when stake or unstake",
   "note.empty.tips": "You haven't got any notes yet. When you deposit to anonymity pools, your locally saved note will show here.",
   "pool.invalid.network": "Warning: This note was deposit from [${chainName}] with chain id [${chainId}], Please switch network and try it again.",
-  "launch.title1": "Cross-chain",
-  "launch.title2": "Yield Enhancement",
-  "launch.title3": "zkSNARKs-based privacy",
-  "launch.desc2": "Cyclone is the world first cross-chain, yield enhancement, zkSNARKs-based privacy protocol for all DeFi apps, with the decentralized governance and fair launch",
+  "launch.title1": "Multi-chain",
+  "launch.title2": "Non-custodial",
+  "launch.title3": "Privacy-preserving",
+  "launch.desc2": "Cyclone is a protocol that applies zkSNARKs to enable transactional privacy by breaking the on-chain link between depositor and recipient addresses.",
+  "launch.desc3": "Launching on Binance Smart Chain at 3/15 10:00 PM UTC",
   "anonymity_pools": "Anonymity Pools",
   "including.anonymity.fee": "Denominations are the amount you will deposit and withdraw. Rewards(CYC) will be included in denominations during withdraw. This amount include ${fee}${symbol} anonymity fee.",
   "lp": "LP",
@@ -272,5 +274,7 @@
   "connector.loading.mobile": "Connecting.",
   "connector.success": "Connected",
   "connector.failed": "Connect failed, Please try again later.",
-  "request.for.anonymity": "Request For Anonymity"
+  "request.for.anonymity": "Request For Anonymity",
+  "home.exchanges": "Exchanges",
+  "home.token.price": "Token Price"
 }

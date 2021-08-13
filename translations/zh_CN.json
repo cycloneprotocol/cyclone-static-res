@@ -95,6 +95,7 @@
   "notice.early.bird": "挖矿已开放！您可以存款并铸造CYC，参加流动性挖矿可以挖取更多CYC。",
   "mining.not.started": "挖矿还尚未开始，请稍后再来。",
   "launch.app": "启动应用",
+  "launch.app.on": "启动应用",
   "Stats": "数据统计",
   "info": "信息",
   "launch.tips1": "多链",
@@ -231,10 +232,11 @@
   "lp.tips": "费用：流动池的0.5％将用于购买CYC和烧毁。质押或取消质押后，已赚取的CYC将被自动领取。",
   "note.empty.tips": "您还没有任何笔记。当您在匿名池存款时，您本地保存的笔记将显示在此处。",
   "pool.invalid.network": "警告：此笔记是从[${chainName}]存入的，链上id为[${chainId}]，请切换网络重试。",
-  "launch.title1": "跨链",
-  "launch.title2": "资产增值机枪池",
-  "launch.title3": "基于zkSNARKs的隐私保护",
-  "launch.desc2": "Cyclone旋风协议是全球首款基于zkSNARKs的具备跨链和资产增值机枪池的匿名隐私DeFi协议，具有去中心化治理和公平启动的能力",
+  "launch.title1": "多链",
+  "launch.title2": "非托管",
+  "launch.title3": "隐私保护",
+  "launch.desc2": "Cyclone 是一种应用zkSNARKs的协议，通过打破存款人和收件人地址之间的链上链接来实现交易隐私。",
+  "launch.desc3": "UTC 时间 3/15 晚上 10:00 在币安智能链上启动",
   "anonymity_pools": "匿名池",
   "lp": "流动池",
   "staked": "质押",
@@ -246,5 +248,7 @@
   "metamask": "MetaMask",
   "trustWallet": "TrustWallet",
   "mathWallet": "麦子钱包",
-  "tokenPocket": "TokenPocket"
+  "tokenPocket": "TokenPocket",
+  "home.exchanges": "交易",
+  "home.token.price": "Token Price"
 }
