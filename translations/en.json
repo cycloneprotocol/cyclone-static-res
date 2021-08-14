@@ -269,6 +269,7 @@
   "learn.more": "Learn more",
   "deno.warning": "Denominations are the amount you will deposit and withdraw. Rewards(CYC) will be included in denominations during withdraw.",
   "iotex.v2.notice": "Please migrate your tokens in V1 pools to V2. You can use your note in withdraw tab. Or you can visit V1",
+  "iotex.v3.notice": "Cyclone is using Web3 on IoTeX network. If you want to use ioPay desktop, please visit here.",
   "here": "here",
   "connector.loading": "Connecting. Please unlock ioPay and don't use global proxy or VPN.",
   "connector.loading.mobile": "Connecting.",
@@ -276,5 +277,6 @@
   "connector.failed": "Connect failed, Please try again later.",
   "request.for.anonymity": "Request For Anonymity",
   "home.exchanges": "Exchanges",
-  "home.token.price": "Token Price"
+  "home.token.price": "Token Price",
+  "v2.migrate.android": "NOTE: if you encounter an issue of unstaking LP on Android, please visit V2 version to unstake. "
 }
