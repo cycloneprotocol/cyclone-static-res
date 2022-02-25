@@ -279,5 +279,8 @@
   "request.for.anonymity": "Request For Anonymity",
   "home.exchanges": "Exchanges",
   "home.token.price": "Token Price",
-  "v2.migrate.android": "NOTE: if you encounter an issue of unstaking LP on Android, please visit V2 version to unstake. "
+  "v2.migrate.android": "NOTE: if you encounter an issue of unstaking LP on Android, please visit V2 version to unstake. ",
+  "Forum": "Forum",
+  "stake.now": "Stake Now !",
+  "iotex.cyclone": "Cyclone Protocol has launched on ZoomSwap <span style='color:#38DCD5'>Space Station</span>!\nStake $CYC, earn Cyclone partners' token!"
 }
